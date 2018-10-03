@@ -1,0 +1,3 @@
+[style]
+# NOTE: Taken from https://github.com/google/yapf/blob/master/.style.yapf
+based_on_style = chromium
